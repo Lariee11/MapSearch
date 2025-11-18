@@ -1,4 +1,4 @@
-# 🛰️ GeoSearch Automation
+# 🛰️ MapSearch Automation
 
 Automação de pesquisas no **Google Maps** e **Google Search** utilizando **Python + Selenium**.  
 O usuário informa coordenadas e um termo de pesquisa, e o sistema executa automaticamente:
